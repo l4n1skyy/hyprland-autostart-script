@@ -3,7 +3,7 @@
 This script fixes the common problem where Hyprland apps open in a random order or wrong size when you first log in. It waits for each app to fully load before moving and resizing them, so your desktop looks perfect every time.
 
 <div align="center">
-  <h3>Built with ❤️ by <b>l4n1skyy</b></h3>
+  <h4>Built with ❤️ by <b>l4n1skyy</b></h4>
 </div>
 
 ## ✨ What it does
