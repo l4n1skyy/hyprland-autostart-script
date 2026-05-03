@@ -30,9 +30,9 @@ Put the files in your Hyprland folder like this:
 ### 1. Define your apps
 Open layout.conf and list your apps.
 
-list current running app classes  ``` hyprctl clients -j | jq -r '.[] | "\(.class) -> \(.title)"' ```
+``` hyprctl clients -j | jq -r '.[] | "\(.class) -> \(.title)"' ```   list current running app classes
 
-format  ``` APP <alias> <class-name> <launch-command> ```
+``` APP <alias> <class-name> <launch-command> ```   format
 
 example
 ```
