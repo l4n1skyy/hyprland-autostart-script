@@ -3,13 +3,13 @@ Hyprland Easy Layout
 This script fixes the common problem where Hyprland apps open in a random order or wrong size when you first log in. It waits for each app to fully load before moving and resizing them, so your desktop looks perfect every time.
 ✨ What it does
 
-    Wait for Apps: It waits until an app is actually visible before trying to move it.
+Wait for Apps: It waits until an app is actually visible before trying to move it.
 
-    Perfect Groups: Automatically puts apps (like Discord and Spotify) into tabbed groups.
+Perfect Groups: Automatically puts apps (like Discord and Spotify) into tabbed groups.
 
-    Exact Sizes: You set the size by percentage (like 80% width), and the script does the math for you.
+Exact Sizes: You set the size by percentage (like 80% width), and the script does the math for you.
 
-    One Workspace at a Time: It sets up one workspace before moving to the next to prevent glitches.
+One Workspace at a Time: It sets up one workspace before moving to the next to prevent glitches.
 
 📂 Where to put it
 
